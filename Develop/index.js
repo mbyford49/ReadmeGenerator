@@ -4,6 +4,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 const path = require('path');
+
 // An array of questions for user input
 
 const questions = [
@@ -29,6 +30,12 @@ const questions = [
         type: 'input',
         message: 'How is this application used?',
         name: 'usage',
+    },
+
+    {
+        type: 'input',
+        message: 'How can other devlopers contribute?',
+        name: 'contribution',
     },
 
     {
