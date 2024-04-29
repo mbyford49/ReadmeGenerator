@@ -34,14 +34,14 @@ const questions = [
 
     {
         type: 'input',
-        message: 'How can other devlopers contribute?',
-        name: 'contribution',
+        message: 'How is this application tested?',
+        name: 'testing',
     },
 
     {
         type: 'input',
-        message: 'How is this application tested?',
-        name: 'testing',
+        message: 'How can other devlopers contribute?',
+        name: 'contribution',
     },
 
     {
