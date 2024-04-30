@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
 
   ## Description
-  This is a command line application that will generate a Readme file based on the users answers to prompted questions.
+  This is a command line application that generates a Readme file based on the users answers to prompted questions.
 
   ## Table of Contents
 
@@ -26,7 +26,7 @@
 
   ## Usage
 
-  After installation, run node index.js in the command line and answer the questions
+  After installation, run node index.js in the command line and answer the questions as prompted
 
   ## Testing
 
